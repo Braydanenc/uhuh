@@ -1,0 +1,2 @@
+c:\users\pc dell 3440\documents\visual studio 2012\Projects\FINAL\FINAL\bin\Debug\FINAL.exe.config
+c:\users\pc dell 3440\documents\visual studio 2012\Projects\FINAL\FINAL\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
